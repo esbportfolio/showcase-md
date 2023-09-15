@@ -1,5 +1,5 @@
 # Showcase Data Tool
-This is a tool I created to help automate the process of turning registrations into a Word document for our in-house designer.
+This is a tool I created to help automate the process of preparing entries and exibitors for entry into an online software called MapDynamics.
 ## Packages Used
 * csv
 * re
